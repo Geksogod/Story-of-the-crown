@@ -63,6 +63,7 @@ crashlytics-build.properties
 /Story-of-the-crown/Temp/
 /Story-of-the-crown/.vs/
 /Story-of-the-crown/.idea
+/Story-of-the-crown/Library/*
 
 .consulo/
 .idea/
