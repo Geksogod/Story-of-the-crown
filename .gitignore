@@ -59,3 +59,24 @@ sysinfo.txt
 crashlytics-build.properties
 
 /Story-of-the-crown/Temp/UnityLockfile
+
+/Story-of-the-crown/Temp/
+/Story-of-the-crown/.vs/
+/Story-of-the-crown/.idea
+
+.consulo/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
