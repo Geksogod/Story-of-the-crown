@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\gekso\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\gekso\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Story-of-the-crown.1003875184.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Pet\Story-of-the-crown\Story-of-the-crown" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Farland Skies" t="Include">
+          <e p="!Core" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Demo" t="Include">
+                <e p="CameraOrbitController.cs" t="Include" />
+                <e p="ObjectRotator.cs" t="Include" />
+                <e p="UI" t="Include">
+                  <e p="BaseColorButton.cs" t="Include" />
+                  <e p="ColorPicker.cs" t="Include" />
+                  <e p="ForegroundToggle.cs" t="Include" />
+                  <e p="PanelsDropdown.cs" t="Include" />
+                </e>
+              </e>
+              <e p="DotParams" t="Include">
+                <e p="DotParam.cs" t="Include" />
+                <e p="DotParamsList.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="BaseParamDrawer.cs" t="Include" />
+                </e>
+                <e p="SortedParamsList.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="FarlandSkiesEditorUtility.cs" t="Include" />
+                <e p="FarlandSkiesPreferences.cs" t="Include" />
+                <e p="RateMeDialog.cs" t="Include" />
+              </e>
+              <e p="Helpers" t="Include">
+                <e p="Singleton.cs" t="Include" />
+              </e>
+              <e p="ReorderableList" t="Include">
+                <e p="CoreList" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="Collections" t="Include">
+                      <e p="ElementAdderMenu" t="Include">
+                        <e p="ElementAdderMenuCommandAttribute.cs" t="Include" />
+                        <e p="ElementAdderMenuCommandMeta.cs" t="Include" />
+                        <e p="ElementAdderMenuPopulator.cs" t="Include" />
+                        <e p="IElementAdder.cs" t="Include" />
+                        <e p="IElementAdderMenuCommand.cs" t="Include" />
+                      </e>
+                      <e p="GenericListAdaptor.cs" t="Include" />
+                      <e p="IReorderableListAdaptor.cs" t="Include" />
+                      <e p="IReorderableListDropTarget.cs" t="Include" />
+                      <e p="ReorderableListControl.cs" t="Include" />
+                      <e p="ReorderableListEvents.cs" t="Include" />
+                      <e p="ReorderableListGUI.cs" t="Include" />
+                      <e p="ReorderableListPropertyDrawer.cs" t="Include" />
+                      <e p="ReorderableListStyles.cs" t="Include" />
+                      <e p="SerializedPropertyAdaptor.cs" t="Include" />
+                      <e p="SerializedPropertyWithDropTargetAdaptor.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Source" t="Include">
+                    <e p="Collections" t="Include">
+                      <e p="ReorderableListAttribute.cs" t="Include" />
+                      <e p="ReorderableListFlags.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="DnExceptionUtils" t="Include">
+                  <e p="Source" t="Include">
+                    <e p="ExceptionUtility.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="DnJson" t="Include">
+                  <e p="Source" t="Include">
+                    <e p="IJsonWriter.cs" t="Include" />
+                    <e p="Internal" t="Include">
+                      <e p="SimpleStack.cs" t="Include" />
+                    </e>
+                    <e p="JsonArrayNode.cs" t="Include" />
+                    <e p="JsonBooleanNode.cs" t="Include" />
+                    <e p="JsonDoubleNode.cs" t="Include" />
+                    <e p="JsonException.cs" t="Include" />
+                    <e p="JsonFormattingUtility.cs" t="Include" />
+                    <e p="JsonIntegerNode.cs" t="Include" />
+                    <e p="JsonNode.cs" t="Include" />
+                    <e p="JsonObjectNode.cs" t="Include" />
+                    <e p="JsonParserException.cs" t="Include" />
+                    <e p="JsonPropertyAttribute.cs" t="Include" />
+                    <e p="JsonReader.cs" t="Include" />
+                    <e p="JsonStringNode.cs" t="Include" />
+                    <e p="JsonUtility.cs" t="Include" />
+                    <e p="JsonWriter.cs" t="Include" />
+                    <e p="JsonWriterSettings.cs" t="Include" />
+                    <e p="Serialization" t="Include">
+                      <e p="MetaType.cs" t="Include" />
+                      <e p="ReflectionUtility.cs" t="Include" />
+                      <e p="SerializableMember.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="DnTypeUtils" t="Include">
+                  <e p="Source" t="Include">
+                    <e p="DependencyAttribute.cs" t="Include" />
+                    <e p="Reflection" t="Include">
+                      <e p="TypeMeta.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="UnEditorMenu" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="EditorMenu.cs" t="Include" />
+                    <e p="EditorMenuCommandBinder.cs" t="Include" />
+                    <e p="EditorMenuCommandEntry.cs" t="Include" />
+                    <e p="EditorMenuEntry.cs" t="Include" />
+                    <e p="EditorMenuInternalUtility.cs" t="Include" />
+                    <e p="EditorMenuPresenter_GenericMenu.cs" t="Include" />
+                    <e p="EditorMenuPresenterUtility.cs" t="Include" />
+                    <e p="EditorMenuSeparatorBinder.cs" t="Include" />
+                    <e p="EditorMenuSeparatorEntry.cs" t="Include" />
+                    <e p="EditorMenuSettings.cs" t="Include" />
+                    <e p="IEditorMenuEntry.cs" t="Include" />
+                    <e p="IEditorMenuEntryParameter.cs" t="Include" />
+                    <e p="IEditorMenuPresenter.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="UnPackageUtils" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="PackageUtility.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="UnUtils" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="UnityEditorExtensions" t="Include">
+                      <e p="AssetUtility.cs" t="Include" />
+                      <e p="ControlContent.cs" t="Include" />
+                      <e p="EditorSingletonScriptableObject.cs" t="Include" />
+                      <e p="EditorSingletonUtility.cs" t="Include" />
+                      <e p="ExtraEditorGUI.cs" t="Include" />
+                      <e p="ExtraEditorStyles.cs" t="Include" />
+                      <e p="IEditorSingleton.cs" t="Include" />
+                      <e p="SerializedPropertyUtility.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Source" t="Include">
+                    <e p="DontDestroyOnLoad.cs" t="Include" />
+                    <e p="UnityExceptionUtility.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Low Poly" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Player" t="Include">
+                  <e p="FPSWalkerEnhanced.cs" t="Include" />
+                  <e p="SmoothMouseLook.cs" t="Include" />
+                </e>
+                <e p="UI" t="Include">
+                  <e p="Buttons" t="Include">
+                    <e p="CloudsRotationButton.cs" t="Include" />
+                    <e p="ColorButton.cs" t="Include" />
+                    <e p="PausetButton.cs" t="Include" />
+                    <e p="ResetButton.cs" t="Include" />
+                  </e>
+                  <e p="PropertyToggle.cs" t="Include" />
+                  <e p="Sliders" t="Include">
+                    <e p="PropertySlider.cs" t="Include" />
+                    <e p="TimeSlider.cs" t="Include" />
+                  </e>
+                  <e p="TexturesDropdown.cs" t="Include" />
+                  <e p="TimeText.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Controllers" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="SkyboxControllerEditor.cs" t="Include" />
+                  <e p="SkyboxControllerPresets.cs" t="Include" />
+                  <e p="SkyboxDayNightCycleEditor.cs" t="Include" />
+                </e>
+                <e p="SkyboxController.cs" t="Include" />
+                <e p="SkyboxCycleManager.cs" t="Include" />
+                <e p="SkyboxDayNightCycle.cs" t="Include" />
+                <e p="SkyboxTimeOfDayController.cs" t="Include" />
+              </e>
+              <e p="DotParams" t="Include">
+                <e p="CelestialParam.cs" t="Include" />
+                <e p="CelestialParamsList.cs" t="Include" />
+                <e p="CloudsParam.cs" t="Include" />
+                <e p="CloudsParamsList.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="CelestialParamDrawer.cs" t="Include" />
+                  <e p="CloudsParamDrawer.cs" t="Include" />
+                  <e p="SkyParamDrawer.cs" t="Include" />
+                  <e p="StarsParamDrawer.cs" t="Include" />
+                </e>
+                <e p="MoonParam.cs" t="Include" />
+                <e p="MoonParamsList.cs" t="Include" />
+                <e p="SkyParam.cs" t="Include" />
+                <e p="SkyParamsList.cs" t="Include" />
+                <e p="StarsParam.cs" t="Include" />
+                <e p="StarsParamsList.cs" t="Include" />
+                <e p="SunParam.cs" t="Include" />
+                <e p="SunParamsList.cs" t="Include" />
+              </e>
+              <e p="Info" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="AssetInfo.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Editor" t="Include">
+                <e p="LowPolyShaderGUI.cs" t="Include" />
+              </e>
+              <e p="LowPolySkybox.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="BrokenVector" t="Include">
+            <e p="LowPolyTreePack" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Low Poly Modular Terrain Pack" t="Include">
+            <e p="Bonus_Assets" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="ModularTerrainCameraControl.cs" t="Include" />
+                <e p="ModularTerrainCloudsControl.cs" t="Include" />
+                <e p="ModularTerrainSunControl.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Low Poly Vegetation Pack" t="Include">
+            <e p="Bonus Assets" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="LowPolyVegetation_CameraControl.cs" t="Include" />
+                <e p="LowPolyVegetation_CloudsControl.cs" t="Include" />
+                <e p="LowPolyVegetation_SunControl.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Story-of-the-crown.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
